@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromattos11&label=Profile%20views&color=009dff&style=flat-square" alt="pedromattos11" /> </p>
 
 
-- 🔭 I’m currently working on **Johnson & Johnson**
+- 🔭 I am currently working on **Johnson & Johnson**
 
 - 📒 My e-mail: **pedro.hmattos19@gmail.com**
 
-- 🌱 I’m currently studying: **Degree in Systems Analysis and Development**
+- 🌱 I am currently studying: **Degree in Systems Analysis and Development**
 
 - 🎓 Graduated in 2022: **Software Development Technician for ETEC, after 3 years studying**
 
