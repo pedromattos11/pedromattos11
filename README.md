@@ -24,8 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromattos11&show_icons=true&locale=en&layout=compact" alt="pedromattos11" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedromattos11&show_icons=true&locale=en&layout=compact" alt="pedromattos11" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromattos11&show_icons=true&theme=synthwave&locale=en" alt="pedromattos11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromattos11&" alt="pedromattos11" /></p>
