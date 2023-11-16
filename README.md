@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Pedro Mattos! 👋 </h1>
 <h3 align="center">I'm a Software Development Technician in Brazil</h3>
-<h3> Welcome to my GitHub profile</h3>
+<h3> Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromattos11&label=Profile%20views&color=009dff&style=flat-square" alt="pedromattos11" /> </p>
 
