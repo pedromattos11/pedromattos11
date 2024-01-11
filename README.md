@@ -10,8 +10,6 @@
 
 - 📒 My e-mail: **pedro.hmattos19@gmail.com**
 
-- 🌱 I am currently studying: **Degree in Systems Analysis and Development**
-
 - 🎓 Graduated in 2022: **Software Development Technician for ETEC, after 3 years studying**
 
 <h3 align="left">Connect with me</h3>
