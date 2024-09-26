@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromattos11&label=Profile%20views&color=009dff&style=flat-square" alt="pedromattos11" /> </p>
 
 
-- 🔭 I am currently working on **Johnson & Johnson**
+- 🔭 I am currently working on **TATA** - Tata Consultancy Service as Software Developer Jr.
 
 - 📒 My e-mail: **pedro.hmattos19@gmail.com**
 
