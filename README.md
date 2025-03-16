@@ -8,7 +8,7 @@
 
 - 🔭 I am currently working on **TATA** - Tata Consultancy Service as Software Developer Jr.
 
-- 📒 My e-mail: **pedro.hmattos19@gmail.com**
+- 📒 My e-mail: pedro.hmattos19@gmail.com
 
 - 🎓 Graduated in 2022: **Software Development Technician for ETEC, after 3 years studying**
 
